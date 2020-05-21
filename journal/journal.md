@@ -224,8 +224,28 @@ Image.
 
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
 
+![Final](https://user-images.githubusercontent.com/62362612/82560484-e49af300-9bb4-11ea-801e-9f46220ec02c.png)
+
+## Final product ##
+
+
+
 ## Design process discussion ##
 <!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
+
+I started my deign process with looking at what interested me so that it could inspire me throughout the project. I had been using plants in my previus project and I had seen many other projects using plants, I thought it would be interesting to see what I could learn from plants too. 
+
+From there I came up with a few ideas of how I could convey my design intent, how I could get people to understand what I am trying to tell them, as well as create a experience through interaction. I had a couple yet there was one that I was drawn to more than the rest. 
+
+I then started to think about how I could develop this idea, practically. How I could fabricate and code it. After figuring out the proper code and started thinking through the frabrication, I found that I needed to change my design and the way I was presenting it. I could still use my code though.
+
+This required me to go back to defining my challenge, seeing the different ways I could change it, as well as to still suit my design intent. 
+
+I found that I had to go back to my problem and think of ways I could make it more relatable. I was also looking at other projects and I thought that I needed to make it human/emotional. I thought that if I wanted people to learn from plants like I have been, then adding something familiar to it, making it 'like us' in a sense, one could relate to it more. 
+
+This led to my new idea of adding a face and a pot. 
+
+So I then started to develop this, with my coding and materially, which has led me to my final design that I currently in possession of.
 
 ## Reflection ##
 
@@ -236,3 +256,13 @@ What techniques, approaches, skills, or information did you find useful from oth
 What parts of your project do you feel are novel? This is IMPORTANT to help justify a key component of the assessment rubric.
 
 What might be an interesting extension of this project? In what other contexts might this project be used? --->
+
+I found this project very challenging and also very interesting. 
+
+From other sources I learnt about the many ways people can create from similar ideas. I found a project that was exactly what I was originally thinking, which threw me off for a bit, I felt like I couldn't come up with another idea. After I kept looking for projects on the internet, I found people had done similar things but in just different forms. I learnt from some specific projects, the use in giving plants emotion, I thought it was very interesting and something I could put into my own project.
+
+I feel like my project is a good mix of a couple ideas, but doesn't lack originality. I found plenty of projects out there that used touch as a signifier yet not many that employed light, which I thought was important in the life of a plant. I also think the face at the front is quite novel and cute and adds character to it. As well as my methods of combining origami and technology is not what I have seen.
+
+This project could be extended to real plants or continue in fake plants. It could continue to be plants people can't kill, be a friend on the windowsill, or even teaching children how to take care of plants. I think there are many avenues this project could go into, it is only a small prototype but could have large implications. 
+
+
