@@ -198,15 +198,17 @@ They worked successfully, and I believed they would be strong enough for the mot
 
 I then proceeded in cutting the hole in the pot for the microbit screen.
 
-image
+![IMG_7395](https://user-images.githubusercontent.com/62362612/82562699-1e6df880-9bb9-11ea-9f78-6c4f6c73de3a.JPG)
 
 After this, I placed the the circuit in the pot. I realised at this point that the alligator clips were faulty and unreliable so I changed my code to another solution, using the light sensor in the microbit. This meant I was much more successful when placing the microbit and motor in my pot.
+
+![IMG_7398](https://user-images.githubusercontent.com/62362612/82562717-275eca00-9bb9-11ea-9b14-e3d21b8adc89.JPG)
 
 Image
 
 For the next part of the flowers, I attached string to the tabs of the flowers then to a slip that would evetually be glued to the arm on my servo motor. Meaning the arm would pull all the tabs in unison, so all the flowers could bloom. 
 
-Image
+![IMG_7396](https://user-images.githubusercontent.com/62362612/82562709-2332ac80-9bb9-11ea-85c0-96c0161fa8b9.JPG)
 
 This took a couple of tries, but managed to fit the mirobit in, using blu-tak to hold it against the wall and also for holding the servo motor down. The flowers also had blu-tak to hold them in place.
 
