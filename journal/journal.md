@@ -89,12 +89,12 @@ My final design was to create a flower that blooms with light. It involves a lig
 <!--- This should be a description of your concept including its context, motivation, or other relevant information you used to decide on this concept. --->
 My finished design concept was to create a flower/a bunch of flower that bloom when a sensor recieves light. A servo motor pulled strings attached to the flowers, to make them bloom.
 
-Image (diagram of final)
+![IMG_7406](https://user-images.githubusercontent.com/62362612/82563664-cdf79a80-9bba-11ea-9bf1-47ada80dd632.JPG)
 
 ### Interaction flowchart ###
 <!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
 
-![Image](missingimage.png)
+![IMG_7403](https://user-images.githubusercontent.com/62362612/82563585-b15b6280-9bba-11ea-9c97-0cf217c52c4b.JPG)
 
 ## Process documentation ##
 <!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
@@ -177,11 +177,13 @@ I then looked to other designs to see their processes, I saw a project that was 
 
 After this brief pause to reassess my design, I decided to stay with the flowers and place them in a pot. This would serve as a place to hold my curcuit as well as making my project more mobile. I also decided to not just have one flower, but a few all blooming at the same time. I would also add a hole in the pot to show the screen of the microbit, a smiley and a sad face at the appropriate time. 
 
-image
+![IMG_7406](https://user-images.githubusercontent.com/62362612/82563664-cdf79a80-9bba-11ea-9bf1-47ada80dd632.JPG)
 
 I figured out all the materials that I needed to pull it off.
 
-Image
+![IMG_7405](https://user-images.githubusercontent.com/62362612/82563657-c9cb7d00-9bba-11ea-8ce6-9cc783dd1129.JPG)
+
+![IMG_7404](https://user-images.githubusercontent.com/62362612/82563593-b4565300-9bba-11ea-99d6-f6ba34b66302.JPG)
 
 I had completed the flowers, made out of fake petals glued on painted paper straws, then a rolled orange paper centre, then adding a sliding tab connected by longer tabs to give it movement.
 
@@ -204,7 +206,9 @@ After this, I placed the the circuit in the pot. I realised at this point that t
 
 ![IMG_7398](https://user-images.githubusercontent.com/62362612/82562717-275eca00-9bb9-11ea-9b14-e3d21b8adc89.JPG)
 
-Image
+![IMG_7400](https://user-images.githubusercontent.com/62362612/82563536-9be63880-9bba-11ea-95ef-4f297ff578c3.JPG)
+
+![IMG_7402](https://user-images.githubusercontent.com/62362612/82563576-ac96ae80-9bba-11ea-8c5d-000d3889ceed.JPG)
 
 For the next part of the flowers, I attached string to the tabs of the flowers then to a slip that would evetually be glued to the arm on my servo motor. Meaning the arm would pull all the tabs in unison, so all the flowers could bloom. 
 
