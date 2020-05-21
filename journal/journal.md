@@ -43,7 +43,7 @@ This project is related to mine because they are using nature to provide somethi
 
 https://nerdbeach.com/digital-planter-gives-your-favorite-plant-a-face/
 
-Image
+![Digital Planter](https://user-images.githubusercontent.com/62362612/82560583-1449fb00-9bb5-11ea-8823-9e69d7f948a3.png)
 
 This Project is related to mine, through the use of faces on plants. I got the idea of my plant looking at this project and thought it was a cool way of making a plant more human/emotional.
 
@@ -51,7 +51,7 @@ This Project is related to mine, through the use of faces on plants. I got the i
 
 https://designawards.core77.com/Interaction/50049/Pontus-An-Interactive-Plant
 
-Image
+![Pontus](https://user-images.githubusercontent.com/62362612/82560621-23c94400-9bb5-11ea-9195-6d649a8f1e43.png)
 
 This project is related to mine through the use of technology to stimulate emotions. This project is very inspiring in the way it is created and definitely inspired parts of my project.
 
@@ -146,11 +146,11 @@ At this point I had to rethink my idea, keeping my current coding that I had. Wh
 
 One thing I changed was the icons of the sun and moon to a sad face when there was no light and a happy one when there was. I thought this would help it give the plant emotion. 
 
-Image
+![bloom test 7 (smiley)](https://user-images.githubusercontent.com/62362612/82560406-c3d29d80-9bb4-11ea-888f-cab639b10d20.png)
 
 After some slight adjusments to the amounts of light accepted by the phototransistor and the sensitivity, I found a code I thought that worked.
 
-Image
+![Bloom test 11 (final)](https://user-images.githubusercontent.com/62362612/82560448-d77e0400-9bb4-11ea-9588-087967924115.png)
 
 However, this was false hope. As later I tested out putting my microbit, motor, phototransistor and the alligator clips into the pot that was going to hold it, I found that the curcuit stopped working. The alligator clips were very unreliable, setting off the curcuit when there was no light. After switching alligator clips to a new one, I found it also did the same after some time. 
 
@@ -158,11 +158,11 @@ I looked for other options instead of alligator clips, such as other clips or a 
 
 I stripped back the coding and went back to the experiment with the phototransistor, but converting it to using the microbit light sensor instead.
 
-Image
+![in-built light sensor](https://user-images.githubusercontent.com/62362612/82560516-f11f4b80-9bb4-11ea-93e4-dab7212da96b.png)
 
 After this, I added on the previous coding for the servo motor, through the servo options that I also discovered at the time.
 
-Image.
+![Final](https://user-images.githubusercontent.com/62362612/82560484-e49af300-9bb4-11ea-801e-9f46220ec02c.png)
 
 In the process of figuring out my code, I also worked on the fabrication of my project.
 
@@ -203,6 +203,14 @@ After this, I placed the the circuit in the pot. I realised at this point that t
 Image
 
 For the next part of the flowers, I attached string to the tabs of the flowers then to a slip that would evetually be glued to the arm on my servo motor. Meaning the arm would pull all the tabs in unison, so all the flowers could bloom. 
+
+Image
+
+This took a couple of tries, but managed to fit the mirobit in, using blu-tak to hold it against the wall and also for holding the servo motor down. The flowers also had blu-tak to hold them in place.
+
+That was the completion of my project.
+
+Image.
 
 
 ## Reflection ##
