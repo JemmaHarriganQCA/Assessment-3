@@ -105,14 +105,7 @@ Use subheadings to structure this information. See https://guides.github.com/fea
 
 There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. --->
 
-## Final code ##
-
-<!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
-
-## Design process discussion ##
-<!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
-
-## Physical experimentation documentation ##
+## Process documentation ##
 
 I started my experimentation with making the coding. To let the phototransistor recieve the light to go through the micro bit and trigger a servo motor move to push open the flower. So I started with combining the code from my previous project, the self waterer plant and the phototransistor experiment in the book. I took the end of the code of the self plant waterer, where it makes the motor move and the start of the code using the transistor to recieve the light. 
 I wasn't sure whether it would work at the begining, but I started to experiment with this. 
@@ -141,6 +134,8 @@ At this point, I was close to finally cracking the problem, I still hadn't worke
 ![bloom test 6 (final)](https://user-images.githubusercontent.com/62362612/79946108-a5dd2480-84b2-11ea-8c44-683969b7a052.png)
 
 My circuit had finally worked and operated swiftly. The phototransistor recieved the light from my torch then successfully madde the motor move 1 sec after then stay at that angle for 10 seconds then move back to its original position.
+
+![IMG_6868](https://user-images.githubusercontent.com/62362612/79945215-affe2380-84b0-11ea-9a17-182f2c9ecd73.JPG)
 
 At this point I had to rethink my idea, keeping my current coding that I had. When I went back to make the curcuit again, I had trouble getting it to work the same way. 
 
@@ -219,6 +214,12 @@ That was the completion of my project.
 
 Image.
 
+## Final code ##
+
+<!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
+
+## Design process discussion ##
+<!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
 
 ## Reflection ##
 
