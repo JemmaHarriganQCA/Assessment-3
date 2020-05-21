@@ -105,8 +105,6 @@ Use subheadings to structure this information. See https://guides.github.com/fea
 
 There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. --->
 
-## Process documentation ##
-
 I started my experimentation with making the coding. To let the phototransistor recieve the light to go through the micro bit and trigger a servo motor move to push open the flower. So I started with combining the code from my previous project, the self waterer plant and the phototransistor experiment in the book. I took the end of the code of the self plant waterer, where it makes the motor move and the start of the code using the transistor to recieve the light. 
 I wasn't sure whether it would work at the begining, but I started to experiment with this. 
 
@@ -204,7 +202,11 @@ I then proceeded in cutting the hole in the pot for the microbit screen.
 
 After this, I placed the the circuit in the pot. I realised at this point that the alligator clips were faulty and unreliable so I changed my code to another solution, using the light sensor in the microbit. This meant I was much more successful when placing the microbit and motor in my pot.
 
+My first go; 
+
 ![IMG_7398](https://user-images.githubusercontent.com/62362612/82562717-275eca00-9bb9-11ea-9b14-e3d21b8adc89.JPG)
+
+My Final placing;
 
 ![IMG_7400](https://user-images.githubusercontent.com/62362612/82563536-9be63880-9bba-11ea-95ef-4f297ff578c3.JPG)
 
@@ -217,8 +219,6 @@ For the next part of the flowers, I attached string to the tabs of the flowers t
 This took a couple of tries, but managed to fit the mirobit in, using blu-tak to hold it against the wall and also for holding the servo motor down. The flowers also had blu-tak to hold them in place.
 
 That was the completion of my project.
-
-Image.
 
 ## Final code ##
 
