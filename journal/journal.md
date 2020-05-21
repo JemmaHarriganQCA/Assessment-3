@@ -228,7 +228,15 @@ Image.
 
 ## Final product ##
 
+![DSC03446](https://user-images.githubusercontent.com/62362612/82570062-6fcfb500-9bc4-11ea-8fcd-ad2cebd2b5d0.jpg)
 
+![DSC03447](https://user-images.githubusercontent.com/62362612/82570087-79f1b380-9bc4-11ea-8fbc-ffe7ba97e809.jpg)
+
+![DSC03453](https://user-images.githubusercontent.com/62362612/82570099-80802b00-9bc4-11ea-9616-c83411f23f41.jpg)
+
+![DSC03454](https://user-images.githubusercontent.com/62362612/82570120-86760c00-9bc4-11ea-96c7-fb30615e21d1.jpg)
+
+![DSC03455](https://user-images.githubusercontent.com/62362612/82570149-90980a80-9bc4-11ea-996b-bb188bc2c381.jpg)
 
 ## Design process discussion ##
 <!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
