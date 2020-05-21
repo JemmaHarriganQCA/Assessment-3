@@ -230,7 +230,7 @@ That was the completion of my project.
 ## Design process discussion ##
 <!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
 
-I started my deign process with looking at what interested me so that it could inspire me throughout the project. I had been using plants in my previus project and I had seen many other projects using plants, I thought it would be interesting to see what I could learn from plants too. 
+I started my design process with looking at what interested me so that it could inspire me throughout the project. I had been using plants in my previus project and I had seen many other projects using plants, I thought it would be interesting to see what I could learn from plants too. 
 
 From there I came up with a few ideas of how I could convey my design intent, how I could get people to understand what I am trying to tell them, as well as create a experience through interaction. I had a couple yet there was one that I was drawn to more than the rest. 
 
