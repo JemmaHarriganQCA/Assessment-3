@@ -190,9 +190,16 @@ Image
 
 I had completed the flowers, made out of fake petals glued on painted paper straws, then a rolled orange paper centre, then adding a sliding tab connected by longer tabs to give it movement.
 
-image(probs a few)
+![IMG_7372](https://user-images.githubusercontent.com/62362612/82561983-b66ae280-9bb7-11ea-8bc0-84e32225635e.JPG)
 
-they worked successfully, and I believed they would be strong enough for the motor.
+![IMG_7381](https://user-images.githubusercontent.com/62362612/82562003-be2a8700-9bb7-11ea-9b8e-572648cd4cb2.JPG)
+
+![IMG_7390](https://user-images.githubusercontent.com/62362612/82562024-c71b5880-9bb7-11ea-81e9-ae9ba892d15e.JPG)
+
+![IMG_7389](https://user-images.githubusercontent.com/62362612/82562043-cedafd00-9bb7-11ea-947d-32a182e96490.JPG)
+
+
+They worked successfully, and I believed they would be strong enough for the motor.
 
 I then proceeded in cutting the hole in the pot for the microbit screen.
 
